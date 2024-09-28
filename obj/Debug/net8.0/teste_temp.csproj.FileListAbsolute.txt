@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\aulas c#\teste_temp\teste_temp\bin\Debug\net8.0\teste_temp.exe
+C:\Users\Gabriel\Desktop\aulas c#\teste_temp\teste_temp\bin\Debug\net8.0\teste_temp.deps.json
+C:\Users\Gabriel\Desktop\aulas c#\teste_temp\teste_temp\bin\Debug\net8.0\teste_temp.runtimeconfig.json
+C:\Users\Gabriel\Desktop\aulas c#\teste_temp\teste_temp\bin\Debug\net8.0\teste_temp.dll
+C:\Users\Gabriel\Desktop\aulas c#\teste_temp\teste_temp\bin\Debug\net8.0\teste_temp.pdb
+C:\Users\Gabriel\Desktop\aulas c#\teste_temp\teste_temp\obj\Debug\net8.0\teste_temp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\aulas c#\teste_temp\teste_temp\obj\Debug\net8.0\teste_temp.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\aulas c#\teste_temp\teste_temp\obj\Debug\net8.0\teste_temp.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\aulas c#\teste_temp\teste_temp\obj\Debug\net8.0\teste_temp.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\aulas c#\teste_temp\teste_temp\obj\Debug\net8.0\teste_temp.dll
+C:\Users\Gabriel\Desktop\aulas c#\teste_temp\teste_temp\obj\Debug\net8.0\refint\teste_temp.dll
+C:\Users\Gabriel\Desktop\aulas c#\teste_temp\teste_temp\obj\Debug\net8.0\teste_temp.pdb
+C:\Users\Gabriel\Desktop\aulas c#\teste_temp\teste_temp\obj\Debug\net8.0\teste_temp.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\aulas c#\teste_temp\teste_temp\obj\Debug\net8.0\ref\teste_temp.dll
